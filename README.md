@@ -5,6 +5,7 @@
 [![GitHub liviabelirocha](https://img.shields.io/github/followers/liviabelirocha?label=follow&style=social)](https://github.com/liviabelirocha)
 
 Computer Science student at [Federal University of Ceará](https://cc.ufc.br) <img src="https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif" width="20">
+
 Django Developer at [Solyd](https://solyd.com.br/) and [EADGURU](https://ead.guru/) <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="20">
 
 [![liviabelirocha's github stats](https://github-readme-stats.vercel.app/api?username=liviabelirocha)](https://github.com/liviabelirocha/github-readme-stats)
