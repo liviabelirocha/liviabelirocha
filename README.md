@@ -20,4 +20,4 @@ Django Developer at [Solyd](https://solyd.com.br/) and [EADGURU](https://ead.gur
 
 [![liviabelirocha's github stats](https://github-readme-stats.vercel.app/api?username=liviabelirocha&show_icons=true&theme=radical)](https://github.com/liviabelirocha/github-readme-stats)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liviabelirocha&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liviabelirocha&layout=compact&theme=radical&exclude_repo=django-girls)
