@@ -6,7 +6,7 @@
 
 Computer Science student at [Federal University of Ceará](https://cc.ufc.br) <img src="https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif" width="20">
 
-Django Developer at [Solyd](https://solyd.com.br/) and [EADGURU](https://ead.guru/) <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="20">
+Fullstack Developer at Falcodev.
 
 ### Skills:
 
