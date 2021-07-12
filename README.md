@@ -20,4 +20,4 @@ Fullstack Developer at Falcodev.
 
 [![liviabelirocha's github stats](https://github-readme-stats.vercel.app/api?username=liviabelirocha&show_icons=true&theme=radical)](https://github.com/liviabelirocha/github-readme-stats)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liviabelirocha&layout=compact&theme=radical&exclude_repo=django-girls)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liviabelirocha&layout=compact&theme=radical)
