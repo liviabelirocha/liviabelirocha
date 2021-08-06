@@ -34,9 +34,10 @@ Fullstack Developer at Falcodev.
 
 <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 
-[![liviabelirocha's github stats](https://github-readme-stats.vercel.app/api?username=liviabelirocha&show_icons=true&theme=radical)](https://github.com/liviabelirocha/github-readme-stats)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liviabelirocha&layout=compact&theme=radical)
+<p align="center">
+  [![liviabelirocha's github stats](https://github-readme-stats.vercel.app/api?username=liviabelirocha&show_icons=true&theme=radical)](https://github.com/liviabelirocha/github-readme-stats)
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=liviabelirocha&layout=compact&theme=radical)
+</p>
 
 ### PC Specs:
 
