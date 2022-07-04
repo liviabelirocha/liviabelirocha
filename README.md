@@ -6,7 +6,7 @@
 
 Computer Science student at [Federal University of Ceará](https://cc.ufc.br) <img src="https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif" width="20">
 
-Fullstack Developer at Falcodev.
+Software Engineer at [Quaddro](https://quaddro.co/).
 
 ### Frameworks:
 
