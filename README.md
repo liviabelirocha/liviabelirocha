@@ -4,22 +4,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/liviabelirocha/)
 [![GitHub liviabelirocha](https://img.shields.io/github/followers/liviabelirocha?label=follow&style=social)](https://github.com/liviabelirocha)
 
-Computer Science student at [Federal University of Ceará](https://cc.ufc.br) <img src="https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif" width="20">
+* Computer Science student at [Federal University of Ceará](https://cc.ufc.br)
+* Software Engineer at [Quaddro](https://quaddro.co/).
+* Blockchain enthusiast!
 
-Software Engineer at [Quaddro](https://quaddro.co/).
-
-Blockchain enthusiast.
-
-### Frameworks:
+<hr/>
 
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> <br/>
 <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <br/>
 <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><img alt="NuxtJs" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 
+<hr/>
+
 <p align="center">
   <img alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabelirocha&layout=compact&theme=radical&exclude_repo=match-prophet,datascience-ck0223,ia-ck0248"> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=liviabelirocha&show_icons=true&theme=radical" height="165">
 </p>
-
-### PC Specs:
-
-<img alt="GPU" src="https://img.shields.io/badge/NVIDIA-GTX1050TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><br/><img alt="CPU" src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
