@@ -17,5 +17,5 @@
 <hr/>
 
 <p align="center">
-  <img alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabelirocha&layout=compact&theme=radical&exclude_repo=match-prophet,datascience-ck0223,ia-ck0248,/datascience-ck0268"> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=liviabelirocha&show_icons=true&theme=radical" height="165">
+  <img alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabelirocha&layout=compact&theme=radical&exclude_repo=match-prophet,datascience-ck0223,ia-ck0248,datascience-ck0268"> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=liviabelirocha&show_icons=true&theme=radical" height="165">
 </p>
