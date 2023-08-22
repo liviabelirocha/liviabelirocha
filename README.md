@@ -6,7 +6,6 @@
 
 * Computer Science student at [Federal University of Ceará](https://cc.ufc.br)
 * Software Engineer at [Quaddro](https://quaddro.co/).
-* Blockchain enthusiast!
 
 <hr/>
 
