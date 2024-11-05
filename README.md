@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/liviabelirocha/)
 [![GitHub liviabelirocha](https://img.shields.io/github/followers/liviabelirocha?label=follow&style=social)](https://github.com/liviabelirocha)
 
-* Computer Science student at [Federal University of Ceará](https://cc.ufc.br)
+* Computer Science graduate at [Federal University of Ceará](https://cc.ufc.br)
 * Software Engineer at [Avenue Code](https://www.avenuecode.com/).
 
 <hr/>
