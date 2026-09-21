@@ -5,7 +5,7 @@
 [![GitHub liviabelirocha](https://img.shields.io/github/followers/liviabelirocha?label=follow&style=social)](https://github.com/liviabelirocha)
 
 * Computer Science graduate at [Federal University of Ceará](https://cc.ufc.br)
-* Software Engineer at [Avenue Code](https://www.avenuecode.com/).
+* Software Engineer at [Sharecare](https://www.sharecare.com/).
 
 <hr/>
 
